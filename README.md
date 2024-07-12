@@ -33,10 +33,6 @@ Throughout this project, I have gained valuable insights and skills, including:
 - **Debugging and Optimization:** Identifying and resolving bugs, and optimizing game performance.
 
 ## Demo Video
-<video height="650" width="520" controls>
-  <source src="assets/TETRIS-GAME-rec.mp4" type="video/mp4">
-</video>
-https://github.com/Blue-hue/TETRIS_USING_RAYLIB/blob/main/assets/TETRIS-GAME-rec.mp4?raw=true
 
-![](assets/TETRIS-GAME-rec.mp4)
+https://github.com/user-attachments/assets/8c0457db-0ed6-4f12-97ce-676e533431c6
 
