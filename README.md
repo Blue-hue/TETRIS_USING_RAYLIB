@@ -29,8 +29,8 @@ To play or modify the Simplified Tetris Game, follow these steps:
 
 2. **Install Dependencies:**
 
-# Ensure you have Raylib and a C++ compiler installed
-# Follow the installation guide for Raylib here: https://github.com/raysan5/raylib#build-and-installation
+Ensure you have Raylib and a C++ compiler installed
+Follow the installation guide for Raylib here: https://github.com/raysan5/raylib#build-and-installation
 
 3. **Build the Project**
 
