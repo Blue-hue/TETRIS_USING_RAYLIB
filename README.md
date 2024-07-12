@@ -31,3 +31,11 @@ Throughout this project, I have gained valuable insights and skills, including:
 - **Graphics Rendering:** Utilizing Raylib to render graphics and animations.
 - **Project Structure:** Organizing code and assets in a manageable structure.
 - **Debugging and Optimization:** Identifying and resolving bugs, and optimizing game performance.
+
+## Demo Video
+<video controls>
+  <source src="assets/TETRIS-GAME-rec.mp4" type="video/mp4">
+</video>
+
+
+
