@@ -36,7 +36,7 @@ Throughout this project, I have gained valuable insights and skills, including:
 <video height="650" width="520" controls>
   <source src="assets/TETRIS-GAME-rec.mp4" type="video/mp4">
 </video>
-https://github.com/Blue-hue/TETRIS_USING_RAYLIB/blob/main/assets/TETRIS-GAME-rec.mp4
+https://github.com/Blue-hue/TETRIS_USING_RAYLIB/blob/main/assets/TETRIS-GAME-rec.mp4?raw=true
 
 ![](assets/TETRIS-GAME-rec.mp4)
 
