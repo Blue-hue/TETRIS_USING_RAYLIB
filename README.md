@@ -1,29 +1,44 @@
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
-Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
-It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
+# Simplified Tetris Game
 
-# How to use this template
-1. Double click on the main.code-workspace file. This will open the template in VS Code.
-2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
-3. Press F5 on the keyboard to compile and run the program.
+Welcome to the Simplified Tetris Game project! This project is a minimalistic implementation of the classic Tetris game, developed using the Raylib C++ library. The game features basic Tetris mechanics including piece rotation, line clearing and scoring system.
 
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Learning Outcomes](#learning-outcomes)
 
-# Video Tutorial
+## Features
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+- **Piece Movement:** Move pieces left, right, and down.
+- **Piece Rotation:** Rotate pieces to fit into spaces.
+- **Line Clearing:** Clear complete lines and earn points.
+- **Score Tracking:** Keep track of the player's score.
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+## Installation
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
-</p>
+To play or modify the Simplified Tetris Game, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/simplified-tetris.git
+   cd simplified-tetris
+
+## Usage
+
+- **Move Left:** Press the left arrow key.
+- **Move Right:** Press the right arrow key.
+- **Rotate Piece:** Press the up arrow key.
+- **Move Down:** Press the down arrow key faster.
+- **Pause/Resume:** Press the `P` key.
+
+## Learning Outcomes
+
+Throughout this project, I have gained valuable insights and skills, including:
+
+- **Understanding Game Loops:** Learning how to create and manage the main game loop.
+- **Handling User Input:** Capturing and processing user inputs to control game elements.
+- **Collision Detection:** Implementing collision detection for game pieces.
+- **Graphics Rendering:** Utilizing Raylib to render graphics and animations.
+- **Project Structure:** Organizing code and assets in a manageable structure.
+- **Debugging and Optimization:** Identifying and resolving bugs, and optimizing game performance.
