@@ -33,7 +33,7 @@ Throughout this project, I have gained valuable insights and skills, including:
 - **Debugging and Optimization:** Identifying and resolving bugs, and optimizing game performance.
 
 ## Demo Video
-<video controls>
+<video height="650" width="520" controls>
   <source src="assets/TETRIS-GAME-rec.mp4" type="video/mp4">
 </video>
 
