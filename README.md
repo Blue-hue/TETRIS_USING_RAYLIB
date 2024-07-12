@@ -38,4 +38,5 @@ Throughout this project, I have gained valuable insights and skills, including:
 </video>
 https://github.com/Blue-hue/TETRIS_USING_RAYLIB/blob/main/assets/TETRIS-GAME-rec.mp4
 
+![](assets/TETRIS-GAME-rec.mp4)
 
