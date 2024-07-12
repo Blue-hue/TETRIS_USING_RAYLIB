@@ -20,9 +20,31 @@ Welcome to the Simplified Tetris Game project! This project is a minimalistic im
 To play or modify the Simplified Tetris Game, follow these steps:
 
 1. **Clone the Repository:**
-   ```bash
+   ```
+
    git clone https://github.com/your-username/simplified-tetris.git
    cd simplified-tetris
+
+   ```
+
+2. **Install Dependencies:**
+
+# Ensure you have Raylib and a C++ compiler installed
+# Follow the installation guide for Raylib here: https://github.com/raysan5/raylib#build-and-installation
+
+3. **Build the Project**
+
+```
+mkdir build
+cd build
+cmake ..
+make
+```
+
+4. **Run the Game**
+```
+./simplified_tetris
+```
 
 ## Usage
 
@@ -30,7 +52,6 @@ To play or modify the Simplified Tetris Game, follow these steps:
 - **Move Right:** Press the right arrow key.
 - **Rotate Piece:** Press the up arrow key.
 - **Move Down:** Press the down arrow key faster.
-- **Pause/Resume:** Press the `P` key.
 
 ## Learning Outcomes
 
