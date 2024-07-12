@@ -4,7 +4,6 @@ Welcome to the Simplified Tetris Game project! This project is a minimalistic im
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Learning Outcomes](#learning-outcomes)
 
@@ -14,37 +13,6 @@ Welcome to the Simplified Tetris Game project! This project is a minimalistic im
 - **Piece Rotation:** Rotate pieces to fit into spaces.
 - **Line Clearing:** Clear complete lines and earn points.
 - **Score Tracking:** Keep track of the player's score.
-
-## Installation
-
-To play or modify the Simplified Tetris Game, follow these steps:
-
-1. **Clone the Repository:**
-   ```
-
-   git clone https://github.com/your-username/simplified-tetris.git
-   cd simplified-tetris
-
-   ```
-
-2. **Install Dependencies:**
-
-Ensure you have Raylib and a C++ compiler installed
-Follow the installation guide for Raylib here: https://github.com/raysan5/raylib#build-and-installation
-
-3. **Build the Project**
-
-```
-mkdir build
-cd build
-cmake ..
-make
-```
-
-4. **Run the Game**
-```
-./simplified_tetris
-```
 
 ## Usage
 
